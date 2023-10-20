@@ -5,6 +5,7 @@ require("nvim-treesitter.configs").setup {
     "python",
     "javascript",
     "ruby",
+    "dockerfile"
   },
 
   sync_install = false,
